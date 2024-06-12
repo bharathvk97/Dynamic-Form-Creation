@@ -48,8 +48,8 @@
                                 <h6>1. Enter  Form Name and Field Name ,it is mandatory.</h6>
                                 <h6>2. Select Field Type, it is mandatory.</h6>
                                 <h6>3. `+` button for adding new field.</h6>
-                                <h6>3. Click `options` button and add a option value, it is mandatory. otherwise throw error.</h6>
-                                <h6>3. `x` button for cancelling the fields.</h6>
+                                <h6>4. Click `options` button and add a option value, `options` is mandatory for all fields. Otherwise throw error.</h6>
+                                <h6>5. `x` button for cancelling the fields.</h6>
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="form-group">
