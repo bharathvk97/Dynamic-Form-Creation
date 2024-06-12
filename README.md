@@ -3,7 +3,7 @@ Follow the below steps.
 1. Create .env file in the root project by taking the copy of .env.example file.
 2. Confugure the DB settings.
 3. Give command `composer install` for installing composer.lock file.
-4. For installing node modules use `npm i` command or `npm i --legacy-peer-deps`.
+4. For installing node modules use `npm i` command or `npm i --legacy-peer-deps` in the root project folder.
 5. You can import the sql or either you can create db and make migarte for migrating the tables to db. Use `php artisan migrate`.
    [Attachhing the sql file to the mail reply.if you want to import the tables into the db.]
 
