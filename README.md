@@ -4,7 +4,7 @@ Follow the below steps.
 2. Confugure the DB settings.
 3. Give command `composer install` for installing composer.lock file.
 4. For installing node modules use `npm i` command or `npm i --legacy-peer-deps` in the root project folder.
-5. You can create db in phpmyadmin and import the sql tables and make migarte for migrating the tables to db. Use `php artisan migrate`.
+5. You can create db in phpmyadmin and import the sql tables.
    [Attachhing the sql file to the mail reply. to import the tables into the db.]
 
 6. LandingPage==>http://127.0.0.1:8000
