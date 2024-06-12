@@ -21,7 +21,7 @@ Follow the below steps.
 12. A job file named `SendMail.php` is created inside the jobs folder, for sending an email notification on successful form creation with queue.
 
 13. When you are creating a new form, there is a field named `options`, 
-    that is mandatory for all the fields. so u should add entry to options also, otherwise error will thrown.
+    that is mandatory for all the fields. so you should add entry to options also, otherwise error will thrown.
 
 14. After created a form, then comes to the `http://127.0.0.1:8000/user_forms` any public user can save their actions in any form fields.
     These entries are going to the table `form_response` in the DB.
